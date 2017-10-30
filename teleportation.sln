@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teleportation", "teleportation.csproj", "{1DAA1A0B-5C8D-5406-2A98-ED10CA64EBCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teleportation.Editor", "teleportation.Editor.csproj", "{99FD3E04-1029-36DB-3725-E6C9B5D97E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DAA1A0B-5C8D-5406-2A98-ED10CA64EBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAA1A0B-5C8D-5406-2A98-ED10CA64EBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAA1A0B-5C8D-5406-2A98-ED10CA64EBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAA1A0B-5C8D-5406-2A98-ED10CA64EBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FD3E04-1029-36DB-3725-E6C9B5D97E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FD3E04-1029-36DB-3725-E6C9B5D97E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FD3E04-1029-36DB-3725-E6C9B5D97E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FD3E04-1029-36DB-3725-E6C9B5D97E75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
